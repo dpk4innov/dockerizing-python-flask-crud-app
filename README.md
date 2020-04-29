@@ -1,5 +1,5 @@
 # dockerizing-python-flask-crud-app
-Keep the two folders and one file inside one root folder.
+Keep the two folders and one file (app,db,docker-compose.yml)inside one root folder.
 go to the root folder.
 Login as root user.
 Run docker-compose up.
